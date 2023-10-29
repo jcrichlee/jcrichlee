@@ -20,6 +20,7 @@
     <a href="https://www.instagram.com/jcrichlee/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jcrichlee/" alt="Instagram Badge" />
     </a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
 </div>
 
 I'm a Software Engineering student, Product Designer, and Design Mentor who currently works as a Product Designer at [500Chow](https://500chow.com). I'm passionate about sharing knowledge, creating solutions to customer problems, and others.
@@ -30,9 +31,9 @@ I'm a Software Engineering student, Product Designer, and Design Mentor who curr
 - ⚡ Fun fact: I love to play Chess and I'm currently studying Software Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Vuejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- - 👯 I’m looking to collaborate on Freelance gigs (Product Design)
+- 👯 I’m looking to collaborate on Freelance gigs (Product Design)
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://www.dropbox.com/scl/fi/ftm5jze49b2nzbv96c7ul/richard-adeyele-resume.pdf?rlkey=iokllyizxogirz03z22y1qj9s&dl=0) and contact me by emailing mailtoradeyele@gmail.com.
+- 📫 You can [view my resume](https://www.dropbox.com/scl/fi/ftm5jze49b2nzbv96c7ul/richard-adeyele-resume.pdf?rlkey=iokllyizxogirz03z22y1qj9s&dl=0) and contact me by emailing [radeyele@gmail.com](mailto:radeyele@gmail.com).
 
 ---
 
